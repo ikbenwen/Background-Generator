@@ -1,13 +1,13 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');*/
 
 body {
-	font-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+    background: linear-gradient(to right, red , yellow); /* Standard syntax */
 }
 
 h1 {
@@ -20,10 +20,9 @@ h1 {
 }
 
 h3 {
-	font: 900 1em 'Raleway', sans-serif;
+    font: 900 1em 'Raleway', sans-serif;
     color: rgba(0,0,0,.5);
     text-align: center;
     text-transform: none;
     letter-spacing: 0.01em;
-
 }
